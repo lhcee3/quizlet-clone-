@@ -6,8 +6,8 @@ This project is a pixel-perfect reproduction of the Quizlet website ([https://qu
 
 ## Submission Details
 
-* **Website Replicated:** Quizlet ([https://quizlet.com/](https://quizlet.com/)) - Specifically, the Homepage.
-* **Live Demo:** [** https://quizlet-clone-self.vercel.app/**]
+* **Website Replicated:** ([Quizlet](https://quizlet.com/)) - Specifically, the Homepage.
+* **Live Demo:** [** https://quizlet-clone-self.vercel.app/ **]
 * **GitHub Repository:** [**https://github.com/lhcee3/quizlet-clone-**]
 
 ## Pixel-Perfect Reproduction
