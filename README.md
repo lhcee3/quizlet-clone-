@@ -2,7 +2,7 @@
 
 ## Project Goal
 
-This project is a pixel-perfect reproduction of the Quizlet website ([https://quizlet.com/](https://quizlet.com/)) created as part of the Pixel Plus Hackathon 2025. The goal was to meticulously recreate the visual design and basic interactive elements of a chosen Quizlet page while adhering to the hackathon's guidelines.
+This project is a pixel-perfect reproduction of the ([Quizlet](https://quizlet.com/) website created as part of the Pixel Plus Hackathon 2025. The goal was to meticulously recreate the visual design and basic interactive elements of a chosen Quizlet page while adhering to the hackathon's guidelines.
 
 ## Submission Details
 
@@ -40,8 +40,8 @@ While this project was built using Next.js, a framework that inherently involves
 
 ## Installation (for local development - optional but good practice)
 
-1.  Clone the repository: `git clone [https://github.com/lhcee3/quizlet-clone-]`
-2.  Navigate to the project directory: `cd [quizlet-clone-]`
+1.  Clone the repository: `git clone https://github.com/lhcee3/quizlet-clone-.git`
+2.  Navigate to the project directory: `cd quizlet-clone-`
 3.  Install dependencies: `npm install` or `yarn install`
 4.  Run the development server: `npm run dev` or `yarn dev`
 5.  Open your browser and navigate to `http://localhost:3000` (or the port specified in your terminal).
