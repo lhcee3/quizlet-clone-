@@ -23,14 +23,7 @@ This reproduction focuses on achieving a high degree of visual fidelity to the o
 
 ## New Enhancement
 
-To go beyond a simple reproduction, I've added the following new feature:
-
-**[Clearly and concisely describe the new feature you added. Be specific about its functionality and how it enhances the original Quizlet experience. The more complex, the better! Here are some examples, adapt to what you actually built:]**
-
-* **Example 1 (Focus on Study):** An integrated "Concentration Mode" within a study set. This mode hides all distractions and provides a timer and score to enhance focused learning.
-* **Example 2 (Community Focused):** A simplified "Quick Share" option that allows users to instantly generate a shareable image of a flashcard or term/definition pair for social media.
-* **Example 3 (Personalization):** A user-customizable theme option allowing users to select different color palettes for the Quizlet interface.
-* **Example 4 (Accessibility):** Implemented keyboard navigation for all key interactive elements to improve accessibility.
+To go beyond a simple reproduction, I've added a user-customizable theme option allowing users to select different color palettes for the Quizlet interface
 
 
 ## Tech Stack
@@ -41,7 +34,8 @@ To go beyond a simple reproduction, I've added the following new feature:
 
 ## Addressing the "Single HTML File" Constraint
 
-All the code is present in `page.tsx`
+All the code is present in `page.tsx`.
+
 While this project was built using Next.js, a framework that inherently involves multiple JavaScript modules and components, the final deployed output on Vercel serves as a functional web application accessible through a single URL. The visual accuracy and added functionality are demonstrable through this deployed link. The provided GitHub repository showcases the code used to generate this output.
 
 ## Installation (for local development - optional but good practice)
